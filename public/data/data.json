@@ -2,631 +2,736 @@
   {
     "key": 0,
     "name": "다야",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 1,
     "name": "이프리트",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Madness"
   },
   {
     "key": 2,
     "name": "코미",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 3,
     "name": "마에스트로 2호",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Madness"
   },
   {
     "key": 4,
     "name": "네르",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 5,
     "name": "림",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 6,
     "name": "스피키",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Innocence"
   },
   {
     "key": 7,
     "name": "실라",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 8,
     "name": "벨벳",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 9,
     "name": "빅우드",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Innocence"
   },
   {
     "key": 10,
     "name": "제이드",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 11,
     "name": "아멜리아",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 12,
     "name": "벨리타",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 13,
     "name": "에르핀",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 14,
     "name": "루포",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 15,
     "name": "에슈르",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 16,
     "name": "엘레나",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 17,
     "name": "프리클",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 18,
     "name": "키디언",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 19,
     "name": "루드",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 20,
     "name": "셰이디",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 21,
     "name": "디아나",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 22,
     "name": "가비아",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 23,
     "name": "칸나",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 24,
     "name": "베니",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Vivacious"
   },
   {
     "key": 25,
     "name": "시스트",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 26,
     "name": "버터",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 27,
     "name": "페스타",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Depressed"
   },
   {
     "key": 28,
     "name": "레비",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Depressed"
   },
   {
     "key": 29,
     "name": "마리",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Vivacious"
   },
   {
     "key": 30,
     "name": "멜루나",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 31,
     "name": "포셔",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 32,
     "name": "쥬비",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Vivacious"
   },
   {
     "key": 33,
     "name": "에스피",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Composed"
   },
   {
     "key": 34,
     "name": "마고",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Innocence"
   },
   {
     "key": 35,
     "name": "마요",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Madness"
   },
   {
     "key": 36,
     "name": "로네",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Innocence"
   },
   {
     "key": 37,
     "name": "시온 더 다크불릿",
-    "isEldein": "TRUE",
-    "star": 3
+    "isEldein": true,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 38,
     "name": "클로에",
-    "isEldein": "TRUE",
-    "star": 3
+    "isEldein": true,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 39,
     "name": "아야",
-    "isEldein": "TRUE",
-    "star": 3
+    "isEldein": true,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 40,
     "name": "우이",
-    "isEldein": "TRUE",
-    "star": 3
+    "isEldein": true,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 41,
     "name": "레이지",
-    "isEldein": "FALSE",
-    "star": 1
+    "isEldein": false,
+    "star": 1,
+    "personality": "Composed"
   },
   {
     "key": 42,
     "name": "메죵",
-    "isEldein": "FALSE",
-    "star": 1
+    "isEldein": false,
+    "star": 1,
+    "personality": "Madness"
   },
   {
     "key": 43,
     "name": "밍스",
-    "isEldein": "FALSE",
-    "star": 1
+    "isEldein": false,
+    "star": 1,
+    "personality": "Vivacious"
   },
   {
     "key": 44,
     "name": "베루",
-    "isEldein": "FALSE",
-    "star": 1
+    "isEldein": false,
+    "star": 1,
+    "personality": "Depressed"
   },
   {
     "key": 45,
     "name": "사리",
-    "isEldein": "FALSE",
-    "star": 1
+    "isEldein": false,
+    "star": 1,
+    "personality": "Innocence"
   },
   {
     "key": 46,
     "name": "알레트",
-    "isEldein": "FALSE",
-    "star": 1
+    "isEldein": false,
+    "star": 1,
+    "personality": "Innocence"
   },
   {
     "key": 47,
     "name": "유미미",
-    "isEldein": "FALSE",
-    "star": 1
+    "isEldein": false,
+    "star": 1,
+    "personality": "Madness"
   },
   {
     "key": 48,
     "name": "쵸피",
-    "isEldein": "FALSE",
-    "star": 1
+    "isEldein": false,
+    "star": 1,
+    "personality": "Depressed"
   },
   {
     "key": 49,
     "name": "카렌",
-    "isEldein": "FALSE",
-    "star": 1
+    "isEldein": false,
+    "star": 1,
+    "personality": "Vivacious"
   },
   {
     "key": 50,
     "name": "큐이",
-    "isEldein": "FALSE",
-    "star": 1
+    "isEldein": false,
+    "star": 1,
+    "personality": "Innocence"
   },
   {
     "key": 51,
     "name": "타이다",
-    "isEldein": "FALSE",
-    "star": 1
+    "isEldein": false,
+    "star": 1,
+    "personality": "Vivacious"
   },
   {
     "key": 52,
     "name": "파트라",
-    "isEldein": "FALSE",
-    "star": 1
+    "isEldein": false,
+    "star": 1,
+    "personality": "Composed"
   },
   {
     "key": 53,
     "name": "티그",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 54,
     "name": "나이아",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 55,
     "name": "실피르",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Depressed"
   },
   {
     "key": 56,
     "name": "비비",
-    "isEldein": "TRUE",
-    "star": 3
+    "isEldein": true,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 57,
     "name": "힐데",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 58,
     "name": "셀리네",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 59,
     "name": "에피카",
-    "isEldein": "TRUE",
-    "star": 3
+    "isEldein": true,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 60,
     "name": "앨리스",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 61,
     "name": "리츠",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 62,
     "name": "피코라",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 63,
     "name": "블랑셰",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 64,
     "name": "이드",
-    "isEldein": "TRUE",
-    "star": 3
+    "isEldein": true,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 65,
     "name": "슈팡",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 66,
     "name": "캬롯",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 67,
     "name": "롤렛",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 68,
     "name": "바나",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Vivacious"
   },
   {
     "key": 69,
     "name": "리스티",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 70,
     "name": "코미(수영복)",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 71,
     "name": "리뉴아",
-    "isEldein": "TRUE",
-    "star": 3
+    "isEldein": true,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 72,
     "name": "레테",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Composed"
   },
   {
     "key": 73,
     "name": "헤일리",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 74,
     "name": "모모",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 75,
     "name": "바롱",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 76,
     "name": "바리에",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Depressed"
   },
   {
     "key": 77,
     "name": "스노키",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 78,
     "name": "피라",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 79,
     "name": "칸타",
-    "isEldein": "FALSE",
-    "star": 2
+    "isEldein": false,
+    "star": 2,
+    "personality": "Composed"
   },
   {
     "key": 80,
     "name": "셰럼",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 81,
     "name": "죠안",
-    "isEldein": "TRUE",
-    "star": 3
+    "isEldein": true,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 82,
     "name": "그윈",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 83,
     "name": "폴랑",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 84,
     "name": "스피키(메이드)",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 85,
     "name": "리온",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 86,
     "name": "오팔",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 87,
     "name": "란",
-    "isEldein": "TRUE",
-    "star": 3
+    "isEldein": true,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 88,
     "name": "림(혼돈)",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 89,
     "name": "아이시아",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 90,
     "name": "사샤",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 91,
     "name": "슈로",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 92,
     "name": "라이카",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 93,
     "name": "벨라",
-    "isEldein": "TRUE",
-    "star": 3
+    "isEldein": true,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 94,
     "name": "네티",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 95,
     "name": "리코타",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 96,
     "name": "마요(멋짐)",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 97,
     "name": "오르",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 98,
     "name": "디아나(왕년)",
-    "isEldein": "TRUE",
-    "star": 3
+    "isEldein": true,
+    "star": 3,
+    "personality": "Composed"
   },
   {
     "key": 99,
     "name": "아르코",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 100,
     "name": "캐시",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Innocence"
   },
   {
     "key": 101,
     "name": "아네트",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Madness"
   },
   {
     "key": 102,
     "name": "로네(시장)",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Depressed"
   },
   {
     "key": 103,
     "name": "마카샤",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Vivacious"
   },
   {
     "key": 104,
     "name": "시저",
-    "isEldein": "FALSE",
-    "star": 3
+    "isEldein": false,
+    "star": 3,
+    "personality": "Composed"
   }
 ]
