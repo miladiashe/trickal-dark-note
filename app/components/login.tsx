@@ -33,8 +33,8 @@ function handleAnonymousLogin() {
   return (
     <div className="flex flex-col items-center justify-center gap-4">
     <h2 className="text-center">Login</h2>
-    <button className="bg-gray-500 hover:bg-gray-700 text-white py-2 px-4 rounded" onClick={handleAnonymousLogin}>Anonymous Login</button>
-    <button className="bg-blue-500 hover:bg-blue-700 text-white py-2 px-4 rounded" onClick={handleGoogleLogin}>Google Login</button>
+    <button className="border-2 border-gray-600 bg-gray-600 hover:border-white text-white py-2 px-4 rounded" onClick={handleAnonymousLogin}>Anonymous Login</button>
+    <button className="border-2 border-blue-600  bg-blue-600 hover:border-white text-white py-2 px-4 rounded" onClick={handleGoogleLogin}>Google Login</button>
 </div>  
 
 )
